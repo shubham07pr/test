@@ -1,1 +1,6 @@
+{{#user}}
+Name: Kumar Shubham 
+Skills: HTML, CSS, JS, Next.js
+Email: shubham.18pr@gmail.com
+{{/user}}
 
